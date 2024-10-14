@@ -1,3 +1,7 @@
+%
+ Data Types - https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-dtyp/b9218cdd-e76a-4c13-bb2d-c322dc39505b
+%
+
 #include <iostream>
 
 using namespace std;
